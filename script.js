@@ -2,7 +2,7 @@ const linkSocialMedia = {
   github:"pceolato",
   instagram: 'pceolatoo',
   // facebook: 'pedro.ceolato',
-  linkedin: 'pedro-ceolato-81534a214'
+  linkedin: 'in/pedro-ceolato-81534a214'
 }
 
 function changeSocialMediaLinks() {
